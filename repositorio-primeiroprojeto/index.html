@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Olá eu sou o Renan!</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="Dooffy-Characters-R1.ico" type="image/x-icon">
+</head>
+<body>
+    <h1>Olá eu sou o Renan! </h1>
+    <h3><img src="Renan.jpg" alt="thumb" width="150px" ></img>
+
+    </h3>
+    <h2>Venha me conhecer!</h2>
+    <p>Eu me chamo Renan, Tenho 23 anos e estou estudando Programação em <strong>Javascript, HTML E CSS</strong>. <br>
+         A cada dia que se passa, eu me encanto mais pela Programação e pela forma que temos de criação a partir do desenvolvimento. </p>
+         <h2>Como são os meus olhos voltados a Programação?</h2>
+<p>Quando penso em 'ter olhos voltados para a programação', vejo mais do que simples linhas de código. É sobre ter um olhar atento aos detalhes, aplicar lógica para resolver problemas e estar sempre aberto a experimentar. A programação é mais do que uma habilidade; é uma fonte de motivação que me impulsiona a explorar novas tecnologias e a me esforçar para escrever um código cada vez melhor. <br></p>
+<h2>O que será este site?</h2>
+<p>    Este site será considerado <strong>meu primeiro projeto postado em meu portfolio no Github</strong><br> Irei montar este perfil para que as empresas possar ver um site com um breve resumo da pessoa que sou e quero me tornar na area da Programação.</p> 
+<p>Abaixo irá ter minhas Redes Sociais e meu <strong>Github com meus projetos pessoais</strong>.</p>
+
+<h2>Minhas Redes Sociais</h2>
+<p><a href="https://www.instagram.com/marconciin?igsh=MTc2Y2E1ZGRqNXlpYg=="><button><img src="instagram 50.png" alt="thumb" width="40px"><br><strong>Instagram</button></strong> </a> </p>
+
+<p><a href="https://github.com/Marconcin01?tab=projects"><button><img src="github50.png" alt="thumb"><br>Github</button> </a></p>   
+
+<p><a href="https://api.whatsapp.com/send/?phone=5511940068958&text=Ol%C3%A1+&type=phone_number&app_absent=0"><button><img src="wpp50.png" width="40px" alt="" title="Fale conosco pelo Whatsapp"><br>Whatsapp</button></img></a></p>
+
+
+
+
+</body>
+</html>
